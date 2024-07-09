@@ -14,5 +14,8 @@
     "lodash": "^4.17.21",
     "mongoose": "^5.13.22"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
 }
